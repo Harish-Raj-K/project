@@ -1,0 +1,7 @@
+response,level
+"I know how to load CSV files in Pandas.",1
+"I can perform EDA, use Matplotlib and Seaborn.",2
+"I trained a random forest model and evaluated with cross-validation.",3
+"I have no idea what Data Science tools are.",1
+"I worked on a Kaggle dataset and built ML models.",3
+"I can clean data and apply basic ML algorithms.",2

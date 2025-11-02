@@ -1,0 +1,7 @@
+response,level
+"I just started learning about AI and its importance.",1
+"I can use ChatGPT and have tried simple prompts.",2
+"I fine-tuned a LLaMA model on a custom dataset.",3
+"I understand how prompt engineering improves results.",2
+"I am aware of AI but haven’t used tools myself.",1
+"I built a chatbot using OpenAI API and LangChain.",3

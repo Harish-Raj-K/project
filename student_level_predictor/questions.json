@@ -1,0 +1,50 @@
+{
+  "python": [
+    "What Python projects have you worked on?",
+    "What Python libraries are you familiar with?",
+    "Can you explain the difference between a list and a tuple?",
+    "Have you used OOP concepts like classes and inheritance in Python?",
+    "What’s your experience with file handling in Python?",
+    "Have you worked with external APIs using Python?",
+    "How comfortable are you with debugging Python code?",
+    "Have you used Python for data analysis or automation?",
+    "What IDE or tools do you use for Python development?",
+    "Can you describe your most challenging Python bug and how you fixed it?"
+  ],
+  "genai": [
+    "What Generative AI tools have you used (e.g., ChatGPT, Midjourney)?",
+    "Have you ever written prompts to get specific outputs?",
+    "What’s your understanding of prompt engineering?",
+    "Have you used the OpenAI or Hugging Face API?",
+    "Can you differentiate between fine-tuning and few-shot learning?",
+    "Have you explored embeddings or vector databases like Pinecone?",
+    "What practical problems have you solved using GenAI?",
+    "Do you understand how transformer models like GPT work?",
+    "What tools or platforms have you built using GenAI?",
+    "What ethical issues do you associate with GenAI usage?"
+  ],
+  "datascience": [
+    "What datasets have you worked with in your projects?",
+    "What tools have you used for data cleaning?",
+    "Can you explain the difference between supervised and unsupervised learning?",
+    "Have you built any machine learning models? Which ones?",
+    "What libraries do you use for visualization?",
+    "What’s your experience with feature engineering?",
+    "Have you used any statistical testing or hypothesis analysis?",
+    "Do you understand concepts like overfitting and cross-validation?",
+    "How comfortable are you with Pandas and NumPy?",
+    "Have you deployed any of your ML models?"
+  ],
+  "fullstack": [
+    "Have you built a complete website or app end-to-end?",
+    "What front-end frameworks have you worked with?",
+    "Have you styled pages using CSS frameworks like Bootstrap or Tailwind?",
+    "Have you used JavaScript for DOM manipulation?",
+    "What back-end frameworks or languages have you used?",
+    "Have you worked with any databases like MongoDB or PostgreSQL?",
+    "Have you built or consumed any RESTful APIs?",
+    "Have you implemented authentication in your projects?",
+    "What deployment platforms have you used (e.g., Vercel, Heroku)?",
+    "How do you manage state or component reusability in your apps?"
+  ]
+}
